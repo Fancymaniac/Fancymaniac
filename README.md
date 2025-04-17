@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Sannjay Balaji
 
-<!--
-**Fancymaniac/Fancymaniac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Master’s in Electrical & Computer Engineering (Robotics & Control) at Western University  
+📍 Currently based in Ontario, Canada
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Interests
+- Robotics & Mechatronics
+- Digital Manufacturing & Control Systems
+- Autonomous Navigation & SLAM
+- SQL + ML-Based Industrial Analytics
+
+---
+
+### 🛠️ Projects
+- **Robotic Welding Arm Simulator** – Path planning, FK/IK, and dynamic control (MATLAB)
+- **Double Inverted Pendulum** – LQR, Kalman Filters, MATLAB-based simulation
+- **Autonomous Robotics Project** – EKF/UKF/SLAM + MDP for path planning
+- **Robot Analytics Dashboard** – SQL + Streamlit dashboard for factory analytics
+
+---
+
+### 🔗 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/sannjay-balaji-a3/)  
+[GitHub](https://github.com/Fancymaniac)
+
+---
+
+> *“Engineering is not just about tools—it’s about making smarter decisions.”*
